@@ -434,8 +434,8 @@
                         {
                             "atomType": "GitHubMolecule",
                             "name": "1/2 Inch by 1 Inch Bolt",
-                            "x": 0.1878787878787879,
-                            "y": 0.4461538461538462,
+                            "x": 0.18528138528138527,
+                            "y": 0.4338461538461538,
                             "uniqueID": 575247,
                             "projectID": "280545028",
                             "ioValues": [],
@@ -792,6 +792,19 @@
                     "ioValue": "source/235813/270802Assembly"
                 }
             ]
+        },
+        {
+            "atomType": "Stl",
+            "name": "Stl",
+            "x": 0.9264069264069263,
+            "y": 0.8584615384615385,
+            "uniqueID": 869432,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "source/235813/270802Assembly"
+                }
+            ]
         }
     ],
     "allConnectors": [
@@ -885,6 +898,13 @@
             "ap2Primary": false,
             "ap1ID": 270802,
             "ap2ID": 367957
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 270802,
+            "ap2ID": 869432
         },
         {
             "ap1Name": "geometry",
