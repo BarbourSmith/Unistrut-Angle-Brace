@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "Angle",
-            "ioValue": 20
+            "ioValue": 16
         }
     ],
     "topLevel": true,
@@ -29,7 +29,7 @@
             "ioValues": [
                 {
                     "name": "A",
-                    "ioValue": 20
+                    "ioValue": 16
                 }
             ],
             "currentEquation": "A+90"
@@ -37,8 +37,8 @@
         {
             "atomType": "Move",
             "name": "Move",
-            "x": 0.4986772486772487,
-            "y": 0.37538461538461537,
+            "x": 0.5046296296296297,
+            "y": 0.3973509933774835,
             "uniqueID": 907614,
             "ioValues": [
                 {
@@ -51,7 +51,7 @@
                 },
                 {
                     "name": "yDist",
-                    "ioValue": -0.01
+                    "ioValue": -0.002
                 },
                 {
                     "name": "zDist",
@@ -76,7 +76,7 @@
                 },
                 {
                     "name": "y-axis degrees",
-                    "ioValue": 110
+                    "ioValue": 106
                 },
                 {
                     "name": "z-axis degrees",
@@ -796,8 +796,8 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.9264069264069263,
-            "y": 0.8584615384615385,
+            "x": 0.9312169312169312,
+            "y": 0.8410596026490066,
             "uniqueID": 869432,
             "ioValues": [
                 {
