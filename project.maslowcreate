@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "Angle",
-            "ioValue": -16
+            "ioValue": 58
         }
     ],
     "topLevel": true,
@@ -29,7 +29,7 @@
             "ioValues": [
                 {
                     "name": "A",
-                    "ioValue": -16
+                    "ioValue": 58
                 }
             ],
             "currentEquation": "A+90"
@@ -76,7 +76,7 @@
                 },
                 {
                     "name": "y-axis degrees",
-                    "ioValue": 74
+                    "ioValue": 148
                 },
                 {
                     "name": "z-axis degrees",
@@ -328,8 +328,8 @@
                 {
                     "atomType": "Extrude",
                     "name": "Extrude",
-                    "x": 0.3304329004329004,
-                    "y": 0.7607692307692308,
+                    "x": 0.3326719576719577,
+                    "y": 0.7692307692307692,
                     "uniqueID": 769404,
                     "ioValues": [
                         {
@@ -338,7 +338,7 @@
                         },
                         {
                             "name": "height",
-                            "ioValue": -1
+                            "ioValue": -2
                         }
                     ]
                 },
@@ -917,8 +917,8 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.9312169312169312,
-            "y": 0.8410596026490066,
+            "x": 0.931878306878307,
+            "y": 0.8430769230769231,
             "uniqueID": 869432,
             "ioValues": [
                 {
@@ -1046,5 +1046,5 @@
     "simplify": false,
     "unitsIndex": 0,
     "filetypeVersion": 1,
-    "circleSegmentSize": "0.051"
+    "circleSegmentSize": "0.001"
 }
