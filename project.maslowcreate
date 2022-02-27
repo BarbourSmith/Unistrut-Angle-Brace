@@ -7,7 +7,7 @@
     "ioValues": [
         {
             "name": "Angle",
-            "ioValue": 58
+            "ioValue": -58
         }
     ],
     "topLevel": true,
@@ -29,7 +29,7 @@
             "ioValues": [
                 {
                     "name": "A",
-                    "ioValue": 58
+                    "ioValue": -58
                 }
             ],
             "currentEquation": "A+90"
@@ -76,7 +76,7 @@
                 },
                 {
                     "name": "y-axis degrees",
-                    "ioValue": 148
+                    "ioValue": 32
                 },
                 {
                     "name": "z-axis degrees",
@@ -917,8 +917,8 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.931878306878307,
-            "y": 0.8430769230769231,
+            "x": 0.9292328042328043,
+            "y": 0.8,
             "uniqueID": 869432,
             "ioValues": [
                 {
